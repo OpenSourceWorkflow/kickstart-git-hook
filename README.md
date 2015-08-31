@@ -1,4 +1,4 @@
-# git-hook
+# kickstart-git-hook
 Git Hooks for Kickstart
 
 # Installation
